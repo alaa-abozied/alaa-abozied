@@ -8,7 +8,7 @@
 ---
 
 <div align="center">
-  <p>📧 Contact me: <b>alaa.abouzaid.dev@gmail.com</b></p>
+  <p>📧 Contact me: <b>alaamohamedabozied@gmail.com</b></p>
 </div>
 
 <p align="center">
@@ -66,13 +66,13 @@
 ### 🔗 Let’s Connect
 
 <div align="center">
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="https://www.linkedin.com/in/alaa-abozaid-800a1b306" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:alaa.abouzaid.dev@gmail.com" target="_blank">
+  <a href="mailto:alaamohamedabozied@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/" target="_blank">
+  <a href="https://github.com/alaa-abozied/" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
